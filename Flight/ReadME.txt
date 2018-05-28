@@ -1,0 +1,1 @@
+A simple java program to check if there is room in the flight to accommodate passengers from an another flight.
