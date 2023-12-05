@@ -1,4 +1,4 @@
-package com.sahiti.Java8.Programs;
+package com.sahiti.Programs;
 
 public class ClimbStairs {
 

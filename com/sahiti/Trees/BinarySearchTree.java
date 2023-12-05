@@ -1,4 +1,4 @@
-package com.sahiti.Java8.Trees;
+package com.sahiti.Trees;
 
 public class BinarySearchTree {
 
