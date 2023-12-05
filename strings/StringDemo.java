@@ -8,14 +8,11 @@ sahiti
     ti
      i
  */
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
-
-import java.util.HashMap;
 
 public class StringDemo {
 
     int num1; String name;
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         StringDemo s = new StringDemo(12,"Sahiti");
         System.out.println(s);
